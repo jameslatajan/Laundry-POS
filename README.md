@@ -1,3 +1,6 @@
+## Laundry POS
+A comprehensive POS system tailored for laundry businesses. This system streamlines order management, payment processing, and inventory tracking, enhancing operational efficiency and customer satisfaction. With features like detailed transaction records, customer loyalty programs, and robust reporting tools, it helps drive business growth and profitability. Ideal for both small dry cleaning shops and large-scale laundry services.
+
 ## Server Requirements
 
 PHP version 7.4 or higher is required, with the following extensions installed:
